@@ -1,0 +1,44 @@
+body {
+    background: blue;
+}
+h1 {
+    margin: 0 auto;
+    display: table;
+}
+div {
+    background: orange;
+    margin: 0 auto;
+    display: table;
+    padding: 10px;
+    border-radius: 10px;
+}
+button {
+    margin: 0 auto;
+    display: table;
+    background: yellow;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    
+}
+#box {
+    background: rgb(243, 242, 242);
+    display: none;
+    margin-top: 10px;
+    border-radius: 50px;
+}
+h3 {
+    margin: 0  auto;
+    display: table;
+    margin-top: 10px;
+}
+img {
+    border-radius: 50px;
+    margin: 0 auto;
+    display: table;
+    width: 500px;
+    margin-top: 20px;
+}
+h2 {
+    text-align: center;
+}
